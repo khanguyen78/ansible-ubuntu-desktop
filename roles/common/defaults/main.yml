@@ -29,6 +29,7 @@ common:
     - lftp
     - make
     - mtr
+    - net-tools
     - nfs-common
     - nmap
     - openssl
